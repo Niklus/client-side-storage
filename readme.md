@@ -1,6 +1,6 @@
 # Client Side Data Storage
 
-Client side data storage includeing the following:
+Client side data storage including the following:
 
 - Cookies
 - localStorage
